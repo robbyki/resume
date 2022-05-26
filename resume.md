@@ -41,7 +41,7 @@ hand -->
  - Redshift SQL optimizations and programming against S3 data 
  - **Stack**: AWS, EMR, EC2, S3, Redshift, Python, Pandas, Jupyter, Java
 
-### <span>Lead Business Intelligence Developer, Yahoo</span> <span>May 2012 -- May 2013</span>
+### <span>Lead Business Intelligence Developer, Yahoo</span> <span>May 2011 -- May 2013</span>
 
  - Lead Analytics Developer on exchange serving +11B daily impressions
  - Supported Partner Managers with custom analytics and reporting tools
@@ -49,7 +49,8 @@ hand -->
    data warehouse ingestion and Tableau integrations 
  - **Stack**: MySQL, Hadoop, Python, Pandas
 
-### <span>Technical Account Manager, Yahoo</span> <span>May 2011 -- May 2012</span>
+
+### <span>Technical Account Manager, Yahoo</span>
 
  - Consultant and technical solutions partner, driving strategy,
    troubleshooting and feature integrations for ad tech clients
